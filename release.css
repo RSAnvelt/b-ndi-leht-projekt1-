@@ -5,8 +5,9 @@
 
 body{
     background-image: url(https://media.pitchfork.com/photos/63bc6f61f0f99d529cd0e8b8/3:2/w_3000,h_2000,c_limit/Ma%CC%8Aneskin-%20Rush!%20.jpeg);
-    width: 100%;
-    height: 1000px;
+    width: 1080px;
+    height: 1920px;
+    
 }
 
 .logo{
@@ -14,4 +15,13 @@ body{
     width: 60px;
     height: 60px;
 
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+}
+
+.nav h1{
+    display: flex;
 }
