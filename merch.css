@@ -28,9 +28,11 @@ header {
 }
 
 .logo img {
-    height: 40px;
+    height: 50px;
     width: auto;
+    display: block;
 }
+
 
 header nav a {
     color: #e0e0e0;
