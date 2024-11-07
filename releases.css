@@ -45,10 +45,12 @@ header {
     position: relative;
 }
 
-header .logo img {
-    height: 40px;
+.logo img {
+    height: 50px;
     width: auto;
+    display: block;
 }
+
 
 header nav a {
     color: #e0e0e0;
