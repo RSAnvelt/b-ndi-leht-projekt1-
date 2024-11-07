@@ -41,14 +41,14 @@ header nav a:hover {
 }
 
 main {
-    padding: 40px 0;
+    padding: 0px 0px;
 }
 
 .band-photo {
-    width: 80%;
-    max-width: 800px;
-    border-radius: 10px;
-    margin-bottom: 40px;
+position: relative;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
 }
 
 .bio-section {
