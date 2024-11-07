@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #e0e0e0;
+    background-color: #1c1c1c;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #1c1c1c;
+    color: #e0e0e0;
+    border-bottom: 1px solid #3c3c3c;
+}
+
+header .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #e24343;
+    font-family: 'Brush Script MT', cursive;
+}
+
+header nav a {
+    color: #e0e0e0;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+header nav a:hover {
+    color: #e24343;
+}
+
+.hero {
+    background-image: url('releases-hero.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    color: #ffffff;
+}
+
+.releases-section {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.releases-section h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+    color: #e0e0e0;
+}
+
+.releases {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.release-item {
+    text-align: center;
+    width: 180px;
+}
+
+.release-item img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.release-item p {
+    font-size: 20px;
+    margin-top: 10px;
+    color: #e0e0e0;
+}
+
+.release-item span {
+    font-size: 14px;
+    color: #cccccc;
+}
+
+footer {
+    background-color: #1c1c1c;
+    padding: 20px 0;
+    color: #e0e0e0;
+    border-top: 1px solid #3c3c3c;
+}
+
+footer .social-icons a {
+    margin: 0 10px;
+}
+
+footer .social-icons img {
+    width: 24px;
+    height: 24px;
+}
+
+footer p {
+    font-size: 14px;
+    color: #a0a0a0;
+    margin-top: 10px;
+}
