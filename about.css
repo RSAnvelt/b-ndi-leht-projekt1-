@@ -14,6 +14,28 @@ body {
     text-align: center;
 }
 
+.hero-container {
+    position: relative;
+    background-image: url('/img/about/image 19.png');
+    background-size: contain;
+    background-position:top center;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.hero-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); 
+    z-index: 1;
+}
+
 header {
     display: flex;
     justify-content: space-between;
@@ -22,6 +44,8 @@ header {
     background-color: #1c1c1c;
     color: #e0e0e0;
     border-bottom: 1px solid #3c3c3c;
+    position: fixed;
+    width: 100%;
 }
 
 .logo img {
@@ -42,20 +66,36 @@ header nav a:hover {
 }
 
 main {
-    padding: 40px 0;
+    padding-top: 400px;
 }
 
 .intro-section, .history-section {
-    margin-bottom: 30px;
+    padding: 50px 20px;
+    background-color: #ffffff;
+    color: #1c1c1c;
 }
 
+.intro-section h2 {
+padding-bottom: 40px;
+
+}
+
+.history-section h2{
+padding-bottom: 80px;
+
+}
 .history-item {
     display: flex;
     margin-bottom: 20px;
 }
 
+.history-item p {
+padding-top: 80px;
+}
+
 .history-item img {
-    width: 150px;
+    width: 300px;
+    border-radius: 10px;
     height: auto;
     margin-right: 20px;
 }
