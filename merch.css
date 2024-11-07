@@ -25,6 +25,8 @@ header .logo {
     font-weight: bold;
     color: #e24343;
     font-family: 'Brush Script MT', cursive;
+    text-decoration: none;
+
 }
 
 header nav a {
