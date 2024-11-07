@@ -20,6 +20,9 @@ header {
     color: #e0e0e0;
     border-bottom: 1px solid #3c3c3c;
 }
+.merch-item-link {
+    text-decoration: none;
+}
 
 .logo img {
     height: 40px;
