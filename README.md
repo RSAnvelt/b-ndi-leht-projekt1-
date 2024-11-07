@@ -29,4 +29,12 @@ Teha lehekülg bändile Måneskin.
 ![image](https://github.com/user-attachments/assets/d03e8957-0b5d-418a-9d9f-0155f48260cf)
 ![image](https://github.com/user-attachments/assets/354b7e24-6f21-435c-9ded-2edf64ec1cde)
 
+# DAY 2
+
+* Koodiga jätkamine
+* Oskar jõoudis kohale
+
+![image](https://github.com/user-attachments/assets/6ad532ed-8647-4472-9165-b8f9fa3b70c8)
+
+
 
