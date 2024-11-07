@@ -39,16 +39,21 @@ header nav a:hover {
 }
 
 .hero {
-    background-image: url('releases-hero.jpg');
     background-size: cover;
-    background-position: center;
+    position: relative;
     text-align: center;
-    padding: 100px 20px;
+    margin: 0;
+    padding: 0 0;
+    width:100%;
+    height: 1440px;
 }
 
 .hero h1 {
     font-size: 48px;
     color: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .releases-section {
@@ -66,7 +71,7 @@ header nav a:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    gap: 100px;
 }
 
 .release-item {
@@ -110,4 +115,10 @@ footer p {
     font-size: 14px;
     color: #a0a0a0;
     margin-top: 10px;
+}
+
+.banner {
+    position: relative;
+    text-align: center;
+    color: white;
 }
