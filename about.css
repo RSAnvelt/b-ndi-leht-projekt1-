@@ -14,19 +14,16 @@ body {
 header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 20px;
     background-color: #1c1c1c;
     color: #e0e0e0;
     border-bottom: 1px solid #3c3c3c;
 }
 
-header .logo {
-    font-size: 24px;
-    font-weight: bold;
-    color: #e24343;
-    font-family: 'Brush Script MT', cursive;
-    text-decoration: none;
-
+.logo img {
+    height: 40px;
+    width: auto;
 }
 
 header nav a {
@@ -73,7 +70,7 @@ footer {
     margin: 0 10px;
 }
 
-socials img {
+.socials img {
     width: 24px;
     height: 24px;
 }

@@ -14,19 +14,16 @@ body {
 header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 20px;
     background-color: #1c1c1c;
     color: #e0e0e0;
     border-bottom: 1px solid #3c3c3c;
 }
 
-header .logo {
-    font-size: 24px;
-    font-weight: bold;
-    color: #e24343;
-    font-family: 'Brush Script MT', cursive;
-    text-decoration: none;
-
+.logo img {
+    height: 40px;
+    width: auto;
 }
 
 header nav a {
@@ -41,11 +38,13 @@ header nav a:hover {
 }
 
 .hero {
-    background-image: url('releases-hero.jpg');
-    background-size: cover;
+    background-image: url('/img/releases/image 3.png'); /* Replace with the actual path to your image */
+    background-size: contain;
+    background-repeat: no-repeat;
     background-position: center;
     text-align: center;
-    padding: 100px 20px;
+    padding: 200px 20px; /* Adjust padding to ensure the whole image is visible */
+    color: #ffffff;
 }
 
 .hero h1 {
@@ -95,15 +94,18 @@ header nav a:hover {
 footer {
     background-color: #1c1c1c;
     padding: 20px 0;
-    color: #e0e0e0;
     border-top: 1px solid #3c3c3c;
 }
 
-footer .social-icons a {
+.socials {
+    margin-bottom: 10px;
+}
+
+.socials a {
     margin: 0 10px;
 }
 
-footer .social-icons img {
+.socials img {
     width: 24px;
     height: 24px;
 }
@@ -111,5 +113,4 @@ footer .social-icons img {
 footer p {
     font-size: 14px;
     color: #a0a0a0;
-    margin-top: 10px;
 }
