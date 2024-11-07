@@ -14,24 +14,11 @@ body {
     text-align: center;
 }
 
-header{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-    background-color: #1c1c1c;
-    color: #e0e0e0;
-    border-bottom: 1px solid #3c3c3c;
-    position: fixed;
-    z-index: 1;
-    width: 100%;
-}
-
 .hero-container {
     position: relative;
-    background-image: url('https://umlconnector.com/wp-content/uploads/GettyImages-1233047832.jpg');
+    background-image: url('/img/releases/GettyImages-1233047832.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
     color: #ffffff;
     text-align: center;
@@ -56,9 +43,6 @@ header {
     padding: 20px;
     z-index: 2;
     position: relative;
-    position: fixed;
-    z-index: 1;
-    width: 100%;
 }
 
 .logo img {
@@ -93,8 +77,8 @@ header nav a:hover {
 .releases-section {
     text-align: center;
     padding: 50px 20px;
-    background-color: #1c1c1c;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #1c1c1c;
 }
 
 .releases-section h2 {
