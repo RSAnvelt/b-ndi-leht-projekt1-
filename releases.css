@@ -14,6 +14,16 @@ body {
     text-align: center;
 }
 
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #1c1c1c;
+    color: #e0e0e0;
+    border-bottom: 1px solid #3c3c3c;
+}
+
 .hero-container {
     position: relative;
     background-image: url('/img/releases/image 3.png');
