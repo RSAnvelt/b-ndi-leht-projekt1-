@@ -1,0 +1,17 @@
+*{
+    padding: 0 auto;
+    margin: 0;
+}
+
+body{
+    background-image: url(https://media.pitchfork.com/photos/63bc6f61f0f99d529cd0e8b8/3:2/w_3000,h_2000,c_limit/Ma%CC%8Aneskin-%20Rush!%20.jpeg);
+    width: 100%;
+    height: 1000px;
+}
+
+.logo{
+    display: flex;
+    width: 60px;
+    height: 60px;
+
+}
