@@ -11,17 +11,38 @@ body {
     text-align: center;
 }
 
+.hero-container {
+    position: relative;
+    background-image: url('/img/releases/image 3.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.hero-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); 
+    z-index: 1;
+}
+
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    background-color: #1c1c1c;
-    color: #e0e0e0;
-    border-bottom: 1px solid #3c3c3c;
+    z-index: 2;
+    position: relative;
 }
 
-.logo img {
+header .logo img {
     height: 40px;
     width: auto;
 }
@@ -38,13 +59,9 @@ header nav a:hover {
 }
 
 .hero {
-    background-image: url('/img/releases/image 3.png'); /* Replace with the actual path to your image */
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    text-align: center;
-    padding: 200px 20px; /* Adjust padding to ensure the whole image is visible */
-    color: #ffffff;
+    padding: 150px 20px;
+    position: relative;
+    z-index: 2;
 }
 
 .hero h1 {
@@ -55,12 +72,13 @@ header nav a:hover {
 .releases-section {
     text-align: center;
     padding: 50px 20px;
+    background-color: #ffffff;
+    color: #1c1c1c;
 }
 
 .releases-section h2 {
     font-size: 36px;
     margin-bottom: 30px;
-    color: #e0e0e0;
 }
 
 .releases {
@@ -83,12 +101,11 @@ header nav a:hover {
 .release-item p {
     font-size: 20px;
     margin-top: 10px;
-    color: #e0e0e0;
 }
 
 .release-item span {
     font-size: 14px;
-    color: #cccccc;
+    color: #666;
 }
 
 footer {
