@@ -39,7 +39,7 @@ Teha lehekülg bändile Måneskin.
 # DAY 3
 
 * Koodi lõpetamine
-* mobile view koodimine
+* mobile view kirjutamine
 
 
 ## Küsimused tiimiliikmetele:
