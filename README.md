@@ -41,7 +41,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8c2bb651-47a4-41c6-92c4-8942331dff87" alt="Mobiilivaade" width="400">
 </p>
-![Mobiilivaade](https://github.com/user-attachments/assets/8c2bb651-47a4-41c6-92c4-8942331dff87)
 
 ---
 
