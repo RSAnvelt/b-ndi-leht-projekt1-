@@ -30,7 +30,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6ad532ed-8647-4472-9165-b8f9fa3b70c8" alt="Töö Vahepealne Etapp" width="400">
 </p>
-![Töö Vahepealne Etapp](https://github.com/user-attachments/assets/6ad532ed-8647-4472-9165-b8f9fa3b70c8)
 
 ---
 
