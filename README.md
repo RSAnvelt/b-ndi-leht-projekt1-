@@ -11,6 +11,7 @@
 - **Lõplik veebileht**: [Vaata siit](https://maneskin.tak23tammela.itmajakas.ee/homepage.html) 🌐
 
 ---
+### PÄEV 1 - *Alustamine*
 - **Figma kujunduse** loomine 👨‍🎨
 - Esimesed koodiread - projekti struktuuri alustamine 💻
 
