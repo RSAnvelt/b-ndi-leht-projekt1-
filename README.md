@@ -66,7 +66,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Juhan* -  Eriti vist mitte
    - *Oskar* -  
    - *Remo* -  
-   - *Mariliis* -  
+   - *Mariliis* -  Mulle sobis ülessanne, mis minu kanda jäi
    - *Rasmus* -  
    - *Ralf Sebastian* -  
 
@@ -75,7 +75,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Juhan* -  Juhendamine
    - *Oskar* -  
    - *Remo* -  
-   - *Mariliis* -  
+   - *Mariliis* -  Tiimitöö
    - *Rasmus* -  
    - *Ralf Sebastian* -  
 
@@ -84,6 +84,6 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Juhan* -  Tuletasin vanillat meelde
    - *Oskar* -  
    - *Remo* -  
-   - *Mariliis* -  
+   - *Mariliis* -  Githubis töötamine, CSS
    - *Rasmus* -  
    - *Ralf Sebastian* -  
