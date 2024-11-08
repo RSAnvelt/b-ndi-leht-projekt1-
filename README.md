@@ -79,7 +79,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Remo* - Ei.
    - *Mariliis* - Mulle sobis ülessanne, mis minu kanda jäi  
    - *Rasmus*  
-   - *Ralf Sebastian*  
+   - *Ralf Sebastian* - Ei, hetkel sobis ja oli võimetekohane
 
 2. **Nimeta üks pehme oskus, mida selle projekti käigus arendasid.**
    - *Keiro* - Tiimitöö
@@ -88,7 +88,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Remo* - Kamandamine
    - *Mariliis* - Tiimitöö  
    - *Rasmus*  
-   - *Ralf Sebastian*  
+   - *Ralf Sebastian* - Tiimitöö
 
 3. **Nimeta üks tehniline oskus, mida selle projektiga arendasid.**
    - *Keiro* - GitHub Desktopi kasutamine
@@ -97,7 +97,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Remo* - Piinarikast Vanilla CSS'i meelde tuletamist ja täiustamist
    - *Mariliis* - GitHubis töötamine, CSS  
    - *Rasmus*  
-   - *Ralf Sebastian*  
+   - *Ralf Sebastian* - Githubis töötamine, Figma, CSS
 
 ---
 
