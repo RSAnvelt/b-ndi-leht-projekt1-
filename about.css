@@ -22,6 +22,9 @@ header {
     background-color: #1c1c1c;
     color: #e0e0e0;
     border-bottom: 1px solid #3c3c3c;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
 }
 
 header .logo {
