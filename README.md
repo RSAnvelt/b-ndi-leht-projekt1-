@@ -72,6 +72,34 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
 
 ### Küsimused ja Vastused
 
+<<<<<<< HEAD
+1. **Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?**  
+   - *Keiro* -  
+   - *Juhan* -  Eriti vist mitte
+   - *Oskar* -  
+   - *Remo* -  
+   - *Mariliis* -  Mulle sobis ülessanne, mis minu kanda jäi
+   - *Rasmus* -  ülesanded oli sobivad
+   - *Ralf Sebastian* -  
+
+2. **Nimeta üks pehme oskus, mida selle projekti käigus arendasid.**  
+   - *Keiro* -  
+   - *Juhan* -  Juhendamine
+   - *Oskar* -  
+   - *Remo* -  
+   - *Mariliis* -  Tiimitöö
+   - *Rasmus* - Tiimitöö 
+   - *Ralf Sebastian* -  
+
+3. **Nimeta üks tehniline oskus, mida selle projektiga arendasid.**  
+   - *Keiro* -  
+   - *Juhan* -  Tuletasin vanillat meelde
+   - *Oskar* -  
+   - *Remo* -  
+   - *Mariliis* -  Githubis töötamine, CSS
+   - *Rasmus* -  Githubi kasutamine
+   - *Ralf Sebastian* -  
+=======
 1. **Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?**
    - *Keiro* - Suhteliselt väga mitte.
    - *Juhan* - Eriti vist mitte  
@@ -104,3 +132,4 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=🌟+Rocki+koos+Måneskin'iga!+🌟" alt="Typing Animation for Rock On" />
 </p>
+>>>>>>> b4d07d41de8a3fa3e2fab62fca2073fe54a7ba06
