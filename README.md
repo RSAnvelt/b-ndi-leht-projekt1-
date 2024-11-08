@@ -36,5 +36,10 @@ Teha lehekülg bändile Måneskin.
 
 ![image](https://github.com/user-attachments/assets/6ad532ed-8647-4472-9165-b8f9fa3b70c8)
 
+# DAY 3
+
+* Koodi lõpetamine
+* mobile view koodimine
+
 
 
