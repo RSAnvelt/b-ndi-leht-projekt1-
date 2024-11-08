@@ -63,7 +63,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
 
 1. **Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?**  
    - *Keiro* -  
-   - *Juhan* -  
+   - *Juhan* -  Eriti vist mitte
    - *Oskar* -  
    - *Remo* -  
    - *Mariliis* -  
@@ -72,7 +72,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
 
 2. **Nimeta üks pehme oskus, mida selle projekti käigus arendasid.**  
    - *Keiro* -  
-   - *Juhan* -  
+   - *Juhan* -  Juhendamine
    - *Oskar* -  
    - *Remo* -  
    - *Mariliis* -  
@@ -81,7 +81,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
 
 3. **Nimeta üks tehniline oskus, mida selle projektiga arendasid.**  
    - *Keiro* -  
-   - *Juhan* -  
+   - *Juhan* -  Tuletasin vanillat meelde
    - *Oskar* -  
    - *Remo* -  
    - *Mariliis* -  
