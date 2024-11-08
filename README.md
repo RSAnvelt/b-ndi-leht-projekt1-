@@ -55,7 +55,7 @@
    - *Oskar* - Ei, see oli väga hea ülessanne.
    - *Remo* - Ei.
    - *Mariliis* - Mulle sobis ülessanne, mis minu kanda jäi  
-   - *Rasmus*  
+   - *Rasmus* - ülesanded olid sobivad
    - *Ralf Sebastian* - Ei, hetkel sobis ja oli võimetekohane
 2. **Nimeta üks pehme oskus, mida selle projekti käigus arendasid.**
    - *Keiro* - Tiimitöö
@@ -63,7 +63,7 @@
    - *Oskar* - Tiimitöö
    - *Remo* - Kamandamine
    - *Mariliis* - Tiimitöö  
-   - *Rasmus*  
+   - *Rasmus* - Tiimitöö
    - *Ralf Sebastian* - Tiimitöö
 3. **Nimeta üks tehniline oskus, mida selle projektiga arendasid.**
    - *Keiro* - GitHub Desktopi kasutamine
@@ -71,7 +71,7 @@
    - *Oskar* - Web Github
    - *Remo* - Piinarikast Vanilla CSS'i meelde tuletamist ja täiustamist
    - *Mariliis* - GitHubis töötamine, CSS  
-   - *Rasmus*  
+   - *Rasmus* - Githubi kasutamine
    - *Ralf Sebastian* - Githubis töötamine, Figma, CSS
 ---
 <p align="center">
