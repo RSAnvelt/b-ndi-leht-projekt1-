@@ -44,6 +44,14 @@
 
 ---
 
+## Kasutatud tarkvarad
+Slack
+Visual Studio Code
+Github 
+
+---
+
+
 ## 💬 Tiimi Tagasiside
 
 ### Küsimused ja Vastused
