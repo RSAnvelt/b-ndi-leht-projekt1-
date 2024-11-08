@@ -20,8 +20,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/354b7e24-6f21-435c-9ded-2edf64ec1cde" alt="Ajurünnak" width="400">
 </p>
-![Esialgne Disain](https://github.com/user-attachments/assets/d03e8957-0b5d-418a-9d9f-0155f48260cf)
-![Ajurünnak](https://github.com/user-attachments/assets/354b7e24-6f21-435c-9ded-2edf64ec1cde)
 
 ---
 
