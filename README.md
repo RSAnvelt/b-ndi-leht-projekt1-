@@ -1,9 +1,5 @@
 
 # 🎸 Grupp J - Måneskin Projekt
-### 📅 6. - 8. november 2024
-
-Tere tulemast Grupp J Måneskini fänni-lehe projekti reposti! Siit leiad kogu projekti info, tööde käigu ja tiimiliikmete tagasiside.
-
 ---
 
 ## 📌 Lingid
