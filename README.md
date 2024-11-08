@@ -67,7 +67,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Oskar* -  
    - *Remo* -  
    - *Mariliis* -  Mulle sobis ülessanne, mis minu kanda jäi
-   - *Rasmus* -  
+   - *Rasmus* -  ülesanded olid sobivad
    - *Ralf Sebastian* -  
 
 2. **Nimeta üks pehme oskus, mida selle projekti käigus arendasid.**  
@@ -76,7 +76,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Oskar* -  
    - *Remo* -  
    - *Mariliis* -  Tiimitöö
-   - *Rasmus* -  
+   - *Rasmus* - Tiimitöö 
    - *Ralf Sebastian* -  
 
 3. **Nimeta üks tehniline oskus, mida selle projektiga arendasid.**  
@@ -85,5 +85,5 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Oskar* -  
    - *Remo* -  
    - *Mariliis* -  Githubis töötamine, CSS
-   - *Rasmus* -  
+   - *Rasmus* -  Githubi kasutamine
    - *Ralf Sebastian* -  
