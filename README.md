@@ -36,5 +36,39 @@ Teha lehekülg bändile Måneskin.
 
 ![image](https://github.com/user-attachments/assets/6ad532ed-8647-4472-9165-b8f9fa3b70c8)
 
+# DAY 3
+
+* Koodi lõpetamine
+* mobile view kirjutamine
+
+
+## Küsimused tiimiliikmetele:
+1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+   * Keiro - 
+   * Juhan - 
+   * Oskar - 
+   * Remo - 
+   * Mariliis - 
+   * Rasmus -
+   * Ralf Sebastian -
+
+2. Üks pehme oskus, mida õppisin/endas arendasin.
+   * Keiro - 
+   * Juhan - 
+   * Oskar - 
+   * Remo - 
+   * Mariliis - 
+   * Rasmus -
+   * Ralf Sebastian -
+3. Üks tehniline oskus, mida õppisin/endas arendasin.
+   * Keiro - 
+   * Juhan - 
+   * Oskar - 
+   * Remo - 
+   * Mariliis - 
+   * Rasmus -
+   * Ralf Sebastian - 
+
+
 
 
