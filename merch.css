@@ -36,11 +36,6 @@ header {
     display: block;
 }
 
-header nav {
-    flex: 1;
-    display: flex;
-    justify-content: end;
-}
 
 header nav a {
     color: #e0e0e0;
