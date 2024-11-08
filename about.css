@@ -46,10 +46,6 @@ header nav a:hover {
     color: #e24343;
 }
 
-main {
-    padding: 40px 20px;
-}
-
 .band {
     position: relative;
     text-align: center;
@@ -62,6 +58,12 @@ main {
 }
 .intro-section, .history-section {
     margin-bottom: 30px;
+    padding: 30px;
+}
+
+.history-section h3 {
+padding-bottom: 30px;
+
 }
 
 .history-item {
@@ -71,9 +73,10 @@ main {
 }
 
 .history-item img {
-    width: 150px;
+    width: 300px;
     height: auto;
     margin-right: 20px;
+    border-radius: 10px;
 }
 
 .history-item div {
