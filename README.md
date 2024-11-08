@@ -1,6 +1,3 @@
-Siin on värskendatud ja visuaalselt huvitavam versioon sinu README-st eesti keeles.
-
----
 
 # 🎸 Grupp J - Måneskin Projekt
 ### 📅 6. - 8. november 2024
