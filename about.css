@@ -55,6 +55,16 @@ main {
     padding: 40px 20px;
 }
 
+.band {
+    position: relative;
+    text-align: center;
+}
+
+.band-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
 .intro-section, .history-section {
     margin-bottom: 30px;
 }
@@ -73,11 +83,6 @@ main {
 
 .history-item div {
     text-align: left;
-}
-
-.band-photo {
-    width: 100%;
-    height: auto;
 }
 
 footer {
