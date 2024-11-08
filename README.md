@@ -62,7 +62,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
 ### Küsimused Tiimiliikmetele
 
 1. **Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?**  
-   - *Keiro* -  
+   - *Keiro* -  suht mitte
    - *Juhan* -  Eriti vist mitte
    - *Oskar* -  
    - *Remo* -  
@@ -80,7 +80,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Ralf Sebastian* -  
 
 3. **Nimeta üks tehniline oskus, mida selle projektiga arendasid.**  
-   - *Keiro* -  GitHub Desktopi kasutamist õppisin
+   - *Keiro* -  GitHub Desktopi kasutamine
    - *Juhan* -  Tuletasin vanillat meelde
    - *Oskar* -  
    - *Remo* -  
