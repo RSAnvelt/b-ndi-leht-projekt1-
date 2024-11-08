@@ -14,7 +14,6 @@ body {
     text-align: center;
 }
 
-
 header {
     display: flex;
     justify-content: space-between;
@@ -50,10 +49,8 @@ main {
 }
 
 .band-photo {
-    position: relative;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
 }
 
 .bio-section {
