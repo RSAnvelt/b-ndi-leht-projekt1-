@@ -42,4 +42,24 @@ Teha lehekülg bändile Måneskin.
 * mobile view koodimine
 
 
+## Küsimused tiimiliikmetele:
+1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+   * Keiro - 
+   * Juhan - 
+   * Oskar - 
+   * Remo - 
+   * Mariliis - 
+   * Rasmus -
+   * Ralf Sebastian - 
+3. Üks tehniline oskus, mida õppisin/endas arendasin.
+   * Keiro - 
+   * Juhan - 
+   * Oskar - 
+   * Remo - 
+   * Mariliis - 
+   * Rasmus -
+   * Ralf Sebastian - 
+
+
+
 
