@@ -71,7 +71,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Ralf Sebastian* -  
 
 2. **Nimeta üks pehme oskus, mida selle projekti käigus arendasid.**  
-   - *Keiro* -  
+   - *Keiro* -  Koostöö
    - *Juhan* -  Juhendamine
    - *Oskar* -  
    - *Remo* -  
@@ -80,7 +80,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Ralf Sebastian* -  
 
 3. **Nimeta üks tehniline oskus, mida selle projektiga arendasid.**  
-   - *Keiro* -  
+   - *Keiro* -  GitHub Desktopi kasutamist õppisin
    - *Juhan* -  Tuletasin vanillat meelde
    - *Oskar* -  
    - *Remo* -  
