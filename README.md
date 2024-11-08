@@ -67,7 +67,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Oskar* -  
    - *Remo* -  
    - *Mariliis* -  Mulle sobis ülessanne, mis minu kanda jäi
-   - *Rasmus* -  ülesanded olid sobivad
+   - *Rasmus* -  ülesanded oli sobivad
    - *Ralf Sebastian* -  
 
 2. **Nimeta üks pehme oskus, mida selle projekti käigus arendasid.**  
