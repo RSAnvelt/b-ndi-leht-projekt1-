@@ -21,6 +21,7 @@ body {
     background-position: top;
     background-repeat: no-repeat;
     color: #ffffff;
+    text-shadow: 2px 2px 2px black;
     text-align: center;
     padding-bottom: 50px;
 }
