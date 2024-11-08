@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&display=swap');
-/* Reset some basic styling */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Inknut Antiqua', serif;
 }
 
 body {
@@ -29,7 +30,7 @@ header .logo {
 }
 
 header .logo img {
-    height: 50px; /* Adjust the height as needed */
+    height: 50px;
     width: auto;
 }
 
@@ -99,7 +100,6 @@ footer p {
     color: #a0a0a0;
 }
 
-/* Media query for smaller screens */
 @media (max-width: 768px) {
     .history-item {
         flex-direction: column;
