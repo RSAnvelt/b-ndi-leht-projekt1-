@@ -9,11 +9,8 @@
 
 - **Figma Kujundus**: [Vaata siit](https://www.figma.com/design/nTpcvD8kkP8YWahdq5S2g3/Maneskin-projekt?node-id=0-1&node-type=canvas&t=NFPyMzPo9kbTipr7-0) 🎨
 - **Lõplik veebileht**: [Vaata siit](https://maneskin.tak23tammela.itmajakas.ee/homepage.html) 🌐
-- **Lõplik veebileht**: Link lisatakse hiljem!
 
 ---
-
-@@ -38,41 +36,31 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
 - **Figma kujunduse** loomine 👨‍🎨
 - Esimesed koodiread - projekti struktuuri alustamine 💻
 
@@ -55,15 +52,6 @@
 ### Küsimused ja Vastused
 ### Küsimused Tiimiliikmetele
 
-<<<<<<< HEAD
-1. **Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?**  
-   - *Keiro* -  
-   - *Juhan* -  Eriti vist mitte
-@@ -99,37 +87,3 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
-   - *Mariliis* -  Githubis töötamine, CSS
-   - *Rasmus* -  Githubi kasutamine
-   - *Ralf Sebastian* -  
-=======
 1. **Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?**
    - *Keiro* - Suhteliselt väga mitte.
    - *Juhan* - Eriti vist mitte  
