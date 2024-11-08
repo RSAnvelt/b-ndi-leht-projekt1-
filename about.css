@@ -75,6 +75,11 @@ main {
     text-align: left;
 }
 
+.band-photo {
+    width: 100%;
+    height: auto;
+}
+
 footer {
     background-color: #1c1c1c;
     padding: 20px 0;
