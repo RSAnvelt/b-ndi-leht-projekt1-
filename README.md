@@ -1,77 +1,96 @@
-# Grupp J - Måneskin
-6  - 8 November 2024
-# Lingid
-* Figma - [Link](https://www.figma.com/design/nTpcvD8kkP8YWahdq5S2g3/Maneskin-projekt?node-id=0-1&node-type=canvas&t=NFPyMzPo9kbTipr7-0)
-  
-* Loodud veebileht:
+Siin on värskendatud ja visuaalselt huvitavam versioon sinu README-st eesti keeles.
 
-# Projekti eesmärk
-Teha lehekülg bändile Måneskin.
+---
 
-# Grupp J Liikmed
-**TAK - 22**: Oskar Kallas
+# 🎸 Grupp J - Måneskin Projekt
+### 📅 6. - 8. november 2024
 
-**TAK - 23**: Remo Tammela, Juhan Heinlaid
+Tere tulemast Grupp J Måneskini fänni-lehe projekti reposti! Siit leiad kogu projekti info, tööde käigu ja tiimiliikmete tagasiside.
 
-**TAK - 24**: Rasmus Põlluäär, Keiro Toodre
+---
 
-**TA - 24**:  Mariliis Zenkevics, Ralf Sebastian Anvelt
+## 📌 Lingid
 
-# DAY 1
+- **Figma Kujundus**: [Vaata siit](https://www.figma.com/design/nTpcvD8kkP8YWahdq5S2g3/Maneskin-projekt?node-id=0-1&node-type=canvas&t=NFPyMzPo9kbTipr7-0) 🎨
+- **Lõplik veebileht**: Link lisatakse hiljem!
 
-* Meeskonnaga tutvumine
-* Slacki tegemine
-* Bändi valimine
-* Ülesannete jagamine
-* Algse sketchi tegemine
-* Disaini loomine Figmas
-* Koodiga alustamine
-![image](https://github.com/user-attachments/assets/d03e8957-0b5d-418a-9d9f-0155f48260cf)
-![image](https://github.com/user-attachments/assets/354b7e24-6f21-435c-9ded-2edf64ec1cde)
+---
 
-# DAY 2
+## 🎯 Projekti Eesmärk
 
-* Koodiga jätkamine
-* Oskar jõoudis kohale
+Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
 
-![image](https://github.com/user-attachments/assets/6ad532ed-8647-4472-9165-b8f9fa3b70c8)
+---
 
-# DAY 3
+## 👥 Grupp J Liikmed
+| Rühm  | Nimi |
+|-------|------|
+| **TAK - 22** | Oskar Kallas |
+| **TAK - 23** | Remo Tammela, Juhan Heinlaid |
+| **TAK - 24** | Rasmus Põlluäär, Keiro Toodre |
+| **TA - 24** | Mariliis Zenkevics, Ralf Sebastian Anvelt |
 
-* Koodi lõpetamine
-* mobile view kirjutamine
-  
-![image](https://github.com/user-attachments/assets/8c2bb651-47a4-41c6-92c4-8942331dff87)
+---
 
+## 🚀 Arenduse Tööplaan
 
+### PÄEV 1 - *Alustamine*
+- **Tiimi tutvustus** 🤝
+- **Slacki kanali** loomine suhtluseks 📱
+- Valisime fookuseks bändi Måneskin 🎶
+- **Ülesannete jaotus** ja rollide määramine 📋
+- Algne sketch ja layout'i ideed ✏️
+- **Figma kujunduse** loomine 👨‍🎨
+- Esimesed koodiread - projekti struktuuri alustamine 💻
 
-## Küsimused tiimiliikmetele:
-1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-   * Keiro - 
-   * Juhan - 
-   * Oskar - 
-   * Remo - 
-   * Mariliis - 
-   * Rasmus -
-   * Ralf Sebastian -
+![Esialgne Disain](https://github.com/user-attachments/assets/d03e8957-0b5d-418a-9d9f-0155f48260cf)
+![Ajurünnak](https://github.com/user-attachments/assets/354b7e24-6f21-435c-9ded-2edf64ec1cde)
 
-2. Üks pehme oskus, mida õppisin/endas arendasin.
-   * Keiro - 
-   * Juhan - 
-   * Oskar - 
-   * Remo - 
-   * Mariliis - 
-   * Rasmus -
-   * Ralf Sebastian -
-3. Üks tehniline oskus, mida õppisin/endas arendasin.
-   * Keiro - 
-   * Juhan - 
-   * Oskar - 
-   * Remo - 
-   * Mariliis - 
-   * Rasmus -
-   * Ralf Sebastian - 
+---
 
+### PÄEV 2 - *Töö edeneb*
+- **Koodimine** jätkus täies hoos 👨‍💻
+- Oskari liitumine meeskonnaga 🎉
 
+![Töö Vahepealne Etapp](https://github.com/user-attachments/assets/6ad532ed-8647-4472-9165-b8f9fa3b70c8)
 
+---
 
+### PÄEV 3 - *Lõppviimistlus*
+- **Koodi lõpetamine** ja viimased muudatused ⚙️
+- **Mobiilivaate** kujundamine 📱
+
+![Mobiilivaade](https://github.com/user-attachments/assets/8c2bb651-47a4-41c6-92c4-8942331dff87)
+
+---
+
+## 💬 Tiimi Tagasiside
+
+### Küsimused Tiimiliikmetele
+
+1. **Kui oleksid saanud valida teise rolli projektis, mida oleksid tahtnud teha?**  
+   - *Keiro* -  
+   - *Juhan* -  
+   - *Oskar* -  
+   - *Remo* -  
+   - *Mariliis* -  
+   - *Rasmus* -  
+   - *Ralf Sebastian* -  
+
+2. **Nimeta üks pehme oskus, mida selle projekti käigus arendasid.**  
+   - *Keiro* -  
+   - *Juhan* -  
+   - *Oskar* -  
+   - *Remo* -  
+   - *Mariliis* -  
+   - *Rasmus* -  
+   - *Ralf Sebastian* -  
+
+3. **Nimeta üks tehniline oskus, mida selle projektiga arendasid.**  
+   - *Keiro* -  
+   - *Juhan* -  
+   - *Oskar* -  
+   - *Remo* -  
+   - *Mariliis* -  
+   - *Rasmus* -  
+   - *Ralf Sebastian* -  
