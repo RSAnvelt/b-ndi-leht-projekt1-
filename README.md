@@ -50,7 +50,16 @@ Teha lehekülg bändile Måneskin.
    * Remo - 
    * Mariliis - 
    * Rasmus -
-   * Ralf Sebastian - 
+   * Ralf Sebastian -
+
+2. Üks pehme oskus, mida õppisin/endas arendasin.
+   * Keiro - 
+   * Juhan - 
+   * Oskar - 
+   * Remo - 
+   * Mariliis - 
+   * Rasmus -
+   * Ralf Sebastian -
 3. Üks tehniline oskus, mida õppisin/endas arendasin.
    * Keiro - 
    * Juhan - 
