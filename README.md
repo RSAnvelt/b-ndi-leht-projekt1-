@@ -61,7 +61,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
 
 ### Küsimused Tiimiliikmetele
 
-1. **Kui oleksid saanud valida teise rolli projektis, mida oleksid tahtnud teha?**  
+1. **Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?**  
    - *Keiro* -  
    - *Juhan* -  
    - *Oskar* -  
