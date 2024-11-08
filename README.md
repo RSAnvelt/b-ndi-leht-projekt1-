@@ -94,7 +94,7 @@ Luua stiilne ja kaasahaarav lehekülg Itaalia rokkbändile Måneskin.
    - *Keiro* - GitHub Desktopi kasutamine
    - *Juhan* - Tuletasin vanillat meelde  
    - *Oskar* - Web Github
-   - *Remo* - Piinarikast Vanilla CSS'i meelde tuletamine ja täiustamine
+   - *Remo* - Piinarikast Vanilla CSS'i meelde tuletamist ja täiustamist
    - *Mariliis* - GitHubis töötamine, CSS  
    - *Rasmus*  
    - *Ralf Sebastian*  
